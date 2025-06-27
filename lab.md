@@ -13,7 +13,7 @@
 
 
 ```
-curl -LO https://raw.githubusercontent.com/singh-deepanshu-578/gcp/blob/648c771a2d2595720e4663c97e34ce61fd50ca1f/gcp.sh
+curl -LO https://raw.githubusercontent.com/singh-deepanshu-578/gcp/blob/main/gcp.sh
 sudo chmod +x gcp.sh
 ./gcp.sh
 ```
