@@ -13,7 +13,7 @@
 
 
 ```
-curl -LO https://raw.githubusercontent.com/singh-deepanshu-578/gcp/blob/main/Orchestrating%20the%20Cloud%20with%20Kubernetes/abhishek.sh
+curl -LO https://raw.githubusercontent.com/singh-deepanshu-578/refs/heads/main/Orchestrating%20the%20Cloud%20with%20Kubernetes/abhishek.sh
 sudo chmod +x abhishek.sh
 ./abhishek.sh
 ```
