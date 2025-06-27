@@ -13,9 +13,9 @@
 
 
 ```
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Orchestrating%20the%20Cloud%20with%20Kubernetes%20(Azure)/abhishek.sh
-sudo chmod +x abhishek.sh
-./abhishek.sh
+curl -LO https://raw.githubusercontent.com/singh-deepanshu-578/gcp/blob/648c771a2d2595720e4663c97e34ce61fd50ca1f/gcp.sh
+sudo chmod +x gcp.sh
+./gcp.sh
 ```
 
 
